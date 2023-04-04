@@ -20,6 +20,8 @@ Python Programs for 2nd Sem BCA
 
 ### 9. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./9-lcmHcf/lcmHcf.py)
 
+### # Python function that takes a number as an input and determine whether it is prime or not [prime.py](./10-primeornot/prime.py)
+
 
 ## Extra, taught in Class
 
