@@ -1,3 +1,4 @@
+# Program to print Floyd's Triangle
 rows = int(input("Enter the number of rows: "))
 
 num = 1

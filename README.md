@@ -2,12 +2,9 @@
 
 Python Programs for 2nd Sem BCA
 
-### 2. (1) # Python program to print the pattern
-""" *     * * *     * * * * *     * * *     * """ [star.py](./2-printPatterns/star.py)
+### 2. (1) # Python program to print the pattern <br>* <br>* * *<br>* * * * *<br>***<br>*[star.py](./2-printPatterns/star.py)
 
-### (2)# Python program to print the pattern
-
-"""1     2 3 2     3 4 5 4 3     4 5 6 7 6 5 4     5 6 7 8 9 8 7 6 5 """[num.py](./2-printPatterns/num.py)
+### (2)# Python program to print the pattern <br>1<br>2 3 2<br>3 4 5 4 3<br>4 5 6 7 6 5 4<br>5 6 7 8 9 8 7 6 5 [num.py](./2-printPatterns/num.py)
 
 ### 3. # Python program to illustrate the various functions of the “Math” module [mtheg.py](./3-mathexample/mtheg.py)
 
@@ -22,6 +19,15 @@ Python Programs for 2nd Sem BCA
 ### 8. #  Python function that takes a number with two or more digits as an input and finds its reverse and computes the sum of its digits [revSum.py](./8-revSum/revSum.py)
 
 ### 9. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./9-lcmHcf/lcmHcf.py)
+
+
+## Extra, taught in Class
+
+### # Python function that checks if the user input is palindrome or not [palindrome.py](./Extra/palindrome.py)
+
+### # Program to print Floyd's Triangle [floyds.py](./Extra/floyds.py)
+
+### # Program to check for Alphabet, Digits, Special character, Whitespace [checker.py](./Extra/checker.py)
 
 ### YOU can use the codes for your needs.
 
