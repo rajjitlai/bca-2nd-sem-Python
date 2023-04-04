@@ -13,8 +13,15 @@ Python Programs for 2nd Sem BCA
 
 ### 4. # Program to find the area of triangle using Heron's Formula [area.py](./4-area/area.py)
 
-### 5. # Python program to find the total sales of a Salesman
-[sales.py](./5-sales/sales.py)
+### 5. # Python program to find the total sales of a Salesman [sales.py](./5-sales/sales.py)
+
+### 6. # Program to find the factorial of a given number [factorial.py](./6-factorial/factorial.py)
+
+### 7. # Program  to find the fibonacci sequence [fibo.py](./7-fibonacci/fibo.py)
+
+### 8. #  Python function that takes a number with two or more digits as an input and finds its reverse and computes the sum of its digits [revSum.py](./8-revSum/revSum.py)
+
+### 9. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./9-lcmHcf/lcmHcf.py)
 
 ### YOU can use the codes for your needs.
 

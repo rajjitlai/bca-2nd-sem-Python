@@ -1,4 +1,4 @@
-# Python function that takes a number as an input and determine whether it is prime or not
+# Python function that checks if the user input is palindrome or not
 
 userInput = input("Enter a number: ")
 
