@@ -20,8 +20,9 @@ Python Programs for 2nd Sem BCA
 
 ### 9. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./9-lcmHcf/lcmHcf.py)
 
-### # Python function that takes a number as an input and determine whether it is prime or not [prime.py](./10-primeornot/prime.py)
+### 10. # Python function that takes a number as an input and determine whether it is prime or not [prime.py](./10-primeornot/prime.py)
 
+### 11. # Python program to find the sum of the series 1-x2/2!+x4/4!-x6/6!+...+xn/n! [ser1sum.py](./11-seriessum/ser1sum.py)
 
 ## Extra, taught in Class
 
