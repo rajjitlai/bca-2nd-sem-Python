@@ -24,6 +24,8 @@ Python Programs for 2nd Sem BCA
 
 ### 11. # Python program to find the sum of the series 1-x2/2!+x4/4!-x6/6!+...+xn/n! [ser1sum.py](./11-seriessum/ser1sum.py)
 
+### 12. # Python function that takes two strings as an input from the user and counts the number of matching characters in the given pair of strings. [incount.py](./12-inputCount/incount.py)
+
 ## Extra, taught in Class
 
 ### # Python function that checks if the user input is palindrome or not [palindrome.py](./Extra/palindrome.py)
