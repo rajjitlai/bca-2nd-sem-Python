@@ -30,4 +30,15 @@ Here's how the program works:
 6. Once the `patternPrint` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
+## Explanation of [mtheg.py](./3-mathexample/mtheg.py)
 
+Here's how the program works:
+
+1. The program first imports the `math` module using the `import` statement.
+2. The program then calculates the square root of the number 25 using the `math.sqrt()` function and assigns the result to the `sqrt` variable. The program prints the result to the console.
+3. The program then calculates the factorial of the number 5 using the `math.factorial()` function and assigns the result to the `fact` variable. The program prints the result to the console.
+4. The program then converts the angle 45 degrees to radians using the `math.radians()` function and assigns the result to the `rad` variable. The program prints the result to the console.
+5. The program then calculates the sine of the angle `pi/4` radians using the `math.sin()` function and assigns the result to the `sin` variable. The program prints the result to the console.
+6. The program then calculates the cosine of the angle `pi/4` radians using the `math.cos()` function and assigns the result to the `cos` variable. The program prints the result to the console.
+7. The program then calculates the logarithm base 10 of the number 1000 using the `math.log10()` function and assigns the result to the `log10` variable. The program prints the result to the console.
+<hr>
