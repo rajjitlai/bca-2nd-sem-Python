@@ -42,3 +42,23 @@ Here's how the program works:
 6. The program then calculates the cosine of the angle `pi/4` radians using the `math.cos()` function and assigns the result to the `cos` variable. The program prints the result to the console.
 7. The program then calculates the logarithm base 10 of the number 1000 using the `math.log10()` function and assigns the result to the `log10` variable. The program prints the result to the console.
 <hr>
+
+## Explanation of [area.py](./4-area/area.py)
+
+Here's how the program works:
+
+1. First, we import the math module which provides access to various mathematical functions and constants.
+
+2. We define a function triArea() which takes no arguments.
+
+3. We get the length of three sides of a triangle as input from the user using input() function, and store them in variables side1, side2, and side3. We convert the input to float data type as the lengths of the sides can be in decimal form.
+
+4. We use Python's assert statement to check that the input lengths of the triangle form a valid triangle. The assert statement will raise an exception if the condition is not True.
+
+5. We calculate the semi-perimeter of the triangle as (side1 + side2 + side3) / 2. The semi-perimeter is half of the perimeter of the triangle.
+
+6. We calculate the area of the triangle using Heron's formula which is given as area = sqrt(s * (s - side1) * (s - side2) * (s - side3)). Here, s is the semi-perimeter of the triangle.
+
+7. Finally, we print the calculated area of the triangle using the print() function.
+<hr>
+
