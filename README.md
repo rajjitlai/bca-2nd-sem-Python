@@ -28,9 +28,9 @@ Python Programs for 2nd Sem BCA
 
 ### 13. Python function that takes a string as an input from the user and displays its reverse. [rev.py](./13-rev/rev.py)
 
-## Extra, taught in Class
+### 14. # Python function that checks if the user input is palindrome or not [palindrome.py](./14-palindrome/palindrome.py)
 
-### # Python function that checks if the user input is palindrome or not [palindrome.py](./Extra/palindrome.py)
+## Extra, taught in Class
 
 ### # Program to print Floyd's Triangle [floyds.py](./Extra/floyds.py)
 
