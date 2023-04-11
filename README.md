@@ -26,6 +26,8 @@ Python Programs for 2nd Sem BCA
 
 ### 12. # Python function that takes two strings as an input from the user and counts the number of matching characters in the given pair of strings. [incount.py](./12-inputCount/incount.py)
 
+### 13. Python function that takes a string as an input from the user and displays its reverse. [rev.py](./13-rev/rev.py)
+
 ## Extra, taught in Class
 
 ### # Python function that checks if the user input is palindrome or not [palindrome.py](./Extra/palindrome.py)
