@@ -62,3 +62,25 @@ Here's how the program works:
 7. Finally, we print the calculated area of the triangle using the `print()` function.
 <hr>
 
+## Explanation of [sales.py](./5-sales/sales.py)
+
+Here's how the program works:
+
+1. First, we define a function `salesReport` which takes a list salesRecord as input. This list contains the sales made by a salesman in a month.
+
+2. We use the built-in `sum` function to calculate the total sales made by the salesman. The total sales are stored in the variable `totalSales`.
+
+3. We use `conditional statements` to determine the remarks for the salesman based on their total sales. If the total sales are greater than or equal to 80000, the remarks are "Excellent". If the total sales are greater than or equal to 60000, the remarks are "Good". If the total sales are greater than or equal to 40000, the remarks are "Average". Otherwise, the remarks are "Work Hard".
+
+4. We use another `conditional statement` to calculate the commission for the salesman based on their total sales. If the total sales are greater than or equal to 50000, the commission is calculated as 5% of the total sales. Otherwise, the commission is 0.
+
+5. We return the total sales, commission, and remarks as a `tuple`.
+
+6. We create a list `salesRecord` which contains the sales made by the salesman in a month.
+
+7. We call the `salesReport` function with `salesRecord` as an argument and store the returned values in the variables `totalSales`, `commission`, and `remarks`.
+
+8. We print the total sales and commission using the `print function`.
+
+9. We use `conditional statements` to print a message based on the remarks of the salesman. If the remarks are "Excellent", we print "Great job! You exceeded your sales target.". If the remarks are "Good", we print "Well done! You made good sales this month.". If the remarks are "Average", we print "Good effort! Keep working to improve your sales.". Otherwise, we print "You need to work harder to meet your sales targets.".
+<hr>
