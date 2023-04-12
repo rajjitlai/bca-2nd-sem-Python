@@ -1,19 +1,6 @@
 def get_matrix(rows, cols):
-    """
-    Gets a matrix from user input.
-
-    Args:
-    rows (int): The number of rows in the matrix.
-    cols (int): The number of columns in the matrix.
-
-    Returns:
-    A 2D list representing the matrix.
-    """
-
-    # Initialize the matrix.
     mat = []
 
-    # Get the values for each element of the matrix.
     for i in range(rows):
         row = input(f"Enter the elements of row {i+1} separated by space: ")
         row = row.split(" ")
@@ -25,27 +12,16 @@ def get_matrix(rows, cols):
 
     return mat
 
-
-def matrix_sum_and_product():
-    """
-    Calculates the sum and product of two compatible matrices entered by the user.
-
-    Returns:
-    A tuple containing the sum and product of the two matrices.
-    """
-
-    # Get the dimensions of the matrices.
+def matSumProt():
     rows1 = int(input("Enter the number of rows in the first matrix: "))
     cols1 = int(input("Enter the number of columns in the first matrix: "))
     rows2 = int(input("Enter the number of rows in the second matrix: "))
     cols2 = int(input("Enter the number of columns in the second matrix: "))
-
-    # Check if the matrices are compatible for addition and multiplication.
+    
     if cols1 != rows2:
         print("Error: The matrices are not compatible for addition and multiplication.")
         return None
 
-    # Get the matrices from user input.
     print("Enter the elements of the first matrix:")
     mat1 = get_matrix(rows1, cols1)
     print("Enter the elements of the second matrix:")
@@ -54,11 +30,9 @@ def matrix_sum_and_product():
     if mat1 is None or mat2 is None:
         return None
 
-    # Initialize the result matrices.
     sum_mat = [[0 for j in range(cols1)] for i in range(rows1)]
     prod_mat = [[0 for j in range(cols2)] for i in range(rows1)]
 
-    # Calculate the sum and product of the matrices.
     for i in range(rows1):
         for j in range(cols1):
             sum_mat[i][j] = mat1[i][j] + mat2[i][j]
@@ -68,8 +42,7 @@ def matrix_sum_and_product():
     return (sum_mat, prod_mat)
 
 
-# Test the function.
-result = matrix_sum_and_product()
+result = matSumProt()
 if result is not None:
     print("The sum of the matrices is:")
     for row in result[0]:
