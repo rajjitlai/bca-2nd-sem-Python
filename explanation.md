@@ -84,3 +84,25 @@ Here's how the program works:
 
 9. We use `conditional statements` to print a message based on the remarks of the salesman. If the remarks are "Excellent", we print "Great job! You exceeded your sales target.". If the remarks are "Good", we print "Well done! You made good sales this month.". If the remarks are "Average", we print "Good effort! Keep working to improve your sales.". Otherwise, we print "You need to work harder to meet your sales targets.".
 <hr>
+
+## Explanation of [factorial.py](./06-factorial/factorial.py)
+
+Here's how the program works:
+
+1. The program prompts the user to enter a number using the `input()` function with a message "Enter a number: ".
+
+2. The user input is stored in a variable named `user_input` after converting it to an integer data type using the `int()` function.
+
+3. The program defines a function named `factorial` that takes an integer `n` as input.
+
+4. Inside the `factorial()` function, a variable named `fact` is initialized to 1.
+
+5. The function then uses a `for` loop to iterate over each integer in the range from 1 to `n + 1`.
+
+6. During each iteration, the value of `fact` is multiplied by the current integer.
+7. Once the loop is complete, the final value of `fact` is the factorial of the input integer.
+
+8. The program then calls the `factorial()` function with the `user_input` integer as an argument to calculate its factorial.
+
+9. Finally, the program prints the value of the calculated factorial using an f-string with the message "The factorial of {user_input} is [factorial_value]".
+<hr>
