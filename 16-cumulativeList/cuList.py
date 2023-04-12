@@ -1,14 +1,5 @@
+#  Python function that takes a list of numbers as input from the user and produces the corresponding cumulative list where each element in the list present at index i is the sum of elements at index j <= i
 def cumulative_list(nums):
-    """
-    Returns the cumulative list of a given list of numbers.
-
-    Args:
-    nums (list): The list of numbers.
-
-    Returns:
-    A new list where each element at index i is the sum of elements at index j<=i.
-    """
-
     cumul_list = []
 
     # Calculate the cumulative sum of the list.

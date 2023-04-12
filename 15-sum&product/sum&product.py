@@ -1,3 +1,4 @@
+# Python function to calculate the sum and product of two compatible matrices
 def get_matrix(rows, cols):
     mat = []
 
