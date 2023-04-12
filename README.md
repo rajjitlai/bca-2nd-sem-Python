@@ -4,23 +4,23 @@ Python Programs for 2nd Sem BCA
 
 You can access the <b>Explanation</b> [here](./explanation.md)
 
-### 2. (1) # Python program to print the pattern <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* <br> &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; *&nbsp;  *<br> * &nbsp; * &nbsp; * &nbsp; * &nbsp; * [star.py](./02-printPatterns/star.py)
+### 02. (1) # Python program to print the pattern <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ <br> &nbsp;&nbsp;&nbsp;&nbsp; _&nbsp; _&nbsp; _<br> _ &nbsp; _ &nbsp; _ &nbsp; _ &nbsp; \* [star.py](./02-printPatterns/star.py)
 
 ### (2)# Python program to print the pattern <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 3 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 4 5 4 3<br>&nbsp;&nbsp;&nbsp;4 5 6 7 6 5 4<br>5 6 7 8 9 8 7 6 5 [num.py](./02-printPatterns/num.py)
 
-### 3. # Python program to illustrate the various functions of the “Math” module [mtheg.py](./03-mathexample/mtheg.py)
+### 03. # Python program to illustrate the various functions of the “Math” module [mtheg.py](./03-mathexample/mtheg.py)
 
-### 4. # Program to find the area of triangle using Heron's Formula [area.py](./04-area/area.py)
+### 04. # Program to find the area of triangle using Heron's Formula [area.py](./04-area/area.py)
 
-### 5. # Python program to find the total sales of a Salesman [sales.py](./05-sales/sales.py)
+### 05. # Python program to find the total sales of a Salesman [sales.py](./05-sales/sales.py)
 
-### 6. # Program to find the factorial of a given number [factorial.py](./06-factorial/factorial.py)
+### 06. # Program to find the factorial of a given number [factorial.py](./06-factorial/factorial.py)
 
-### 7. # Program  to find the fibonacci sequence [fibo.py](./07-fibonacci/fibo.py)
+### 07. # Program to find the fibonacci sequence [fibo.py](./07-fibonacci/fibo.py)
 
-### 8. #  Python function that takes a number with two or more digits as an input and finds its reverse and computes the sum of its digits [revSum.py](./08-revSum/revSum.py)
+### 08. # Python function that takes a number with two or more digits as an input and finds its reverse and computes the sum of its digits [revSum.py](./08-revSum/revSum.py)
 
-### 9. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./09-lcmHcf/lcmHcf.py)
+### 09. # Python function that takes two numbers as input parameters and returns their least common multiple and highest common factor [lcmHcf.py](./09-lcmHcf/lcmHcf.py)
 
 ### 10. # Python function that takes a number as an input and determine whether it is prime or not [prime.py](./10-primeornot/prime.py)
 
@@ -31,6 +31,10 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 ### 13. Python function that takes a string as an input from the user and displays its reverse. [rev.py](./13-rev/rev.py)
 
 ### 14. # Python function that checks if the user input is palindrome or not [palindrome.py](./14-palindrome/palindrome.py)
+
+### 15. # Python function to calculate the sum and product of two compatible matrices [sum&product.py](./15-sum%26product/sum%26product.py)
+
+### 16. # Python function that takes a list of numbers as input from the user and produces the corresponding cumulative list where each element in the list present at index i is the sum of elements at index j <= i [cuList.py](./16-cumulativeList/cuList.py)
 
 ## Extra, taught in Class
 
