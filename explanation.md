@@ -4,7 +4,7 @@ We will explore some simple Python programs that cover the basic syntax and cont
 
 <hr>
 
-## Explanation of [star.py](./2-printPatterns/star.py)
+## Explanation of [star.py](./02-printPatterns/star.py)
 
 Here's how the program works:
 
@@ -18,7 +18,7 @@ Here's how the program works:
 8. Once the `printPattern` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
-## Explanation of [num.py](./2-printPatterns/num.py)
+## Explanation of [num.py](./02-printPatterns/num.py)
 
 Here's how the program works:
 
@@ -30,7 +30,7 @@ Here's how the program works:
 6. Once the `patternPrint` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
-## Explanation of [mtheg.py](./3-mathexample/mtheg.py)
+## Explanation of [mtheg.py](./03-mathexample/mtheg.py)
 
 Here's how the program works:
 
@@ -43,7 +43,7 @@ Here's how the program works:
 7. The program then calculates the logarithm base 10 of the number 1000 using the `math.log10()` function and assigns the result to the `log10` variable. The program prints the result to the console.
 <hr>
 
-## Explanation of [area.py](./4-area/area.py)
+## Explanation of [area.py](./04-area/area.py)
 
 Here's how the program works:
 
@@ -62,7 +62,7 @@ Here's how the program works:
 7. Finally, we print the calculated area of the triangle using the `print()` function.
 <hr>
 
-## Explanation of [sales.py](./5-sales/sales.py)
+## Explanation of [sales.py](./05-sales/sales.py)
 
 Here's how the program works:
 
