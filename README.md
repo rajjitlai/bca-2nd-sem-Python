@@ -38,6 +38,8 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 
 ### 17. #  Python function that takes n as an input and creates a list of n lists such that ith list contains first five multiples of i [nlist.py](./17-nlist/nlist.py)
 
+### 18. # Python function that takes a sentence as input from the user and calculates the frequency of each letter and use a variable of dictionary type to maintain the count [freqLetter.py](./18-freqLetter/freqLetter.py)
+
 ## Extra, taught in Class
 
 ### # Program to print Floyd's Triangle [floyds.py](./Extra/floyds.py)

@@ -1,4 +1,4 @@
-# a function that takes a sentence as input from the user and calculates the frequency of each letter and use a variable of dictionary type to maintain the count
+# Python function that takes a sentence as input from the user and calculates the frequency of each letter and use a variable of dictionary type to maintain the count
 
 
 def freqLetter():
