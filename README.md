@@ -4,7 +4,7 @@ Python Programs for 2nd Sem BCA
 
 You can access the <b>Explanation</b> [here](./explanation.md)
 
-### 02. (1) # Python program to print the pattern <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ <br> &nbsp;&nbsp;&nbsp;&nbsp; _&nbsp; _&nbsp; _<br> _ &nbsp; _ &nbsp; _ &nbsp; _ &nbsp; \* [star.py](./02-printPatterns/star.py)
+### 02. (1) # Python program to print the pattern <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* <br> &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; *&nbsp; *<br> * &nbsp; * &nbsp; * &nbsp; * &nbsp; \* [star.py](./02-printPatterns/star.py)
 
 ### (2)# Python program to print the pattern <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 3 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 4 5 4 3<br>&nbsp;&nbsp;&nbsp;4 5 6 7 6 5 4<br>5 6 7 8 9 8 7 6 5 [num.py](./02-printPatterns/num.py)
 
@@ -35,6 +35,8 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 ### 15. # Python function to calculate the sum and product of two compatible matrices [sum&product.py](./15-sum%26product/sum%26product.py)
 
 ### 16. # Python function that takes a list of numbers as input from the user and produces the corresponding cumulative list where each element in the list present at index i is the sum of elements at index j <= i [cuList.py](./16-cumulativeList/cuList.py)
+
+### 17. #  Python function that takes n as an input and creates a list of n lists such that ith list contains first five multiples of i [nlist.py](./17-nlist/nlist.py)
 
 ## Extra, taught in Class
 
