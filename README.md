@@ -42,6 +42,7 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 
 ### 19. # Python function that takes a dictionary of word:meaning pairs as an input from the user and creates an inverted dictionary of the form meaning:list-of-words [invDict.py](./19-invdict/invDict.py)
 
+### Implementation of Linear and Binary search techniques [linear.py](./20-search/linear.py)
 
 ## Extra, taught in Class
 
