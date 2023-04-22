@@ -42,7 +42,9 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 
 ### 19. # Python function that takes a dictionary of word:meaning pairs as an input from the user and creates an inverted dictionary of the form meaning:list-of-words [invDict.py](./19-invdict/invDict.py)
 
-### Implementation of Linear and Binary search techniques [linear.py](./20-search/linear.py) and [binary.py](./20-search/binary.py)
+### 20. Implementation of Linear and Binary search techniques [linear.py](./20-search/linear.py) and [binary.py](./20-search/binary.py)
+
+### 21. Implementation of selection sort, insertion sort, and bubble sort techniques [select.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/selection-sort/select.py) [insert.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/insertion-sort/insert.py) [bubble.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/bubble-sort/bubSort.py)
 
 ## Extra, taught in Class
 
