@@ -40,6 +40,9 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 
 ### 18. # Python function that takes a sentence as input from the user and calculates the frequency of each letter and use a variable of dictionary type to maintain the count [freqLetter.py](./18-freqLetter/freqLetter.py)
 
+### 19. # Python function that takes a dictionary of word:meaning pairs as an input from the user and creates an inverted dictionary of the form meaning:list-of-words [invDict.py](./19-invdict/invDict.py)
+
+
 ## Extra, taught in Class
 
 ### # Program to print Floyd's Triangle [floyds.py](./Extra/floyds.py)
