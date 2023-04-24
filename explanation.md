@@ -151,3 +151,24 @@ Here's how the program works:
 7. The `revSum()` function is called to reverse the input number and calculate the sum of its digits.
 <hr>
 
+## Explanation of [lcmHcf.py](./09-lcmHcf/lcmHcf.py)
+
+Here's how the program works:
+
+1. The user is prompted to enter two numbers using the `input()` function, and the inputs are stored in the variables `userInput1` and `userInput2` as integers using `int()`.
+
+2. The `lcmHcf()` function is defined to calculate the least common multiple (LCM) and highest common factor (HCF) of the two input numbers.
+
+3. Two variables `big` and `small` are initialized to hold the larger and smaller of the two input numbers, respectively, using the `max()` and `min()` functions.
+
+4. A `while` loop is used to repeatedly calculate the HCF of the two numbers, until the smaller number becomes zero. In each iteration, the smaller number is stored in a temporary variable `temp`, the remainder of `big` divided by `small` is calculated using the modulo operator `%`, and `big` is set to `temp`. The final value of `big` is the HCF of the two input numbers.
+
+5. The LCM of two numbers is calculated as the product of the two numbers divided by their HCF, which is stored in the variable `lcm`.
+
+6. The LCM and HCF of the two input numbers are printed using f-strings, which allow variables to be interpolated directly into a string.
+
+7. The `lcmHcf()` function is called to calculate the LCM and HCF of the two input numbers.
+
+8. The output displays the LCM and HCF of the two input numbers.
+<hr>
+
