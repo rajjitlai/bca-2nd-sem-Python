@@ -172,3 +172,26 @@ Here's how the program works:
 8. The output displays the LCM and HCF of the two input numbers.
 <hr>
 
+## Explanation of [prime.py](./10-primeornot/prime.py)
+
+Here's how the program works:
+
+1. The `math` module is imported to use the `sqrt()` function.
+
+2. A function named `is_prime()` is defined to determine whether the given number is prime or not.
+
+3. The function takes one parameter `n` which is the number to be checked.
+
+4. If `n` is less than 2, it is not considered as a prime number, and the function prints "`n` is not a prime number".
+
+5. If `n` is 2, it is considered as a prime number, and the function prints "`n` is a prime number".
+
+6. If `n` is an even number, it is not considered as a prime number, and the function prints "`n` is not a prime number".
+
+7. If `n` is not an even number, then the function checks if it is divisible by any odd number between 3 and square root of `n`, inclusively. If it is, the function prints "`n` is not a prime number" and exits the loop using `break` statement. Otherwise, the function prints "`n` is a prime number".
+
+8. The `is_prime()` function is called by passing `userInput` as an argument to check whether it is a prime number or not.
+
+9. The output displays whether `userInput` is a prime number or not based on the result of `is_prime()` function.
+<hr>
+
