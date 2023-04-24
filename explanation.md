@@ -106,3 +106,29 @@ Here's how the program works:
 
 9. Finally, the program prints the value of the calculated factorial using an f-string with the message "The factorial of {user_input} is [factorial_value]".
 <hr>
+
+## Explanation of [fibo.py](./07-fibonacci/fibo.py)
+
+Here's how the program works:
+
+1. The user is prompted to enter a number using the `input()` function, and the input is stored in the variable `user_input`.
+
+2. The `int()` function is used to convert the user input from a string to an integer.
+
+3. The `fibonacci()` function is defined, which takes a single parameter `n` to specify the number of terms of the Fibonacci series to generate.
+
+4 .The `a` and `b` variables are initialized to 0 and 1, respectively, which represent the first two terms of the series.
+
+5. The first two terms of the series, i.e., 0 and 1, are printed using the `print()` function.
+
+6. The `for` loop starts from index 2 and runs up to `n-1`.
+
+7. In each iteration of the loop, the current term of the series is calculated as the sum of the previous two terms and stored in the variable `c`.
+
+8. The value of `a` is updated to `b`, and the value of `b` is updated to `c`.
+
+9. The current term `c` is printed using the `print()` function.
+
+10. Finally, the `fibonacci()` function is called with the input value `user_input`, and the function generates and prints the Fibonacci series up to `user_input` terms.number.
+<hr>
+
