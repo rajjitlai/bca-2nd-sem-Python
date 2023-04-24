@@ -132,3 +132,22 @@ Here's how the program works:
 10. Finally, the `fibonacci()` function is called with the input value `user_input`, and the function generates and prints the Fibonacci series up to `user_input` terms.number.
 <hr>
 
+## Explanation of [revSum.py](./08-revSum/revSum.py)
+
+Here's how the program works:
+
+1. The user is prompted to enter a number with two or more digits using the `input()` function, and the input is stored in the variable `user_input`.
+
+2. The `revSum()` function is defined to reverse the input number and calculate the sum of its digits.
+
+3. The input number is reversed by converting it to a string using `str()` and then slicing it with `[::-1]`, which reverses the string.
+
+4. A variable `sum` is initialized to 0 to hold the sum of the reversed number's digits.
+
+5. A `for` loop is used to iterate through each digit of the reversed number. In each iteration, the current digit is converted to an integer using `int()` and added to the `sum` variable.
+
+6. The reversed number and its `sum` are printed using the `print()` function.
+
+7. The `revSum()` function is called to reverse the input number and calculate the sum of its digits.
+<hr>
+
