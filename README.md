@@ -44,7 +44,7 @@ You can access the <b>Explanation</b> [here](./explanation.md)
 
 ### 20. Implementation of Linear and Binary search techniques [linear.py](./20-search/linear.py) and [binary.py](./20-search/binary.py)
 
-### 21. Implementation of selection sort, insertion sort, and bubble sort techniques [select.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/selection-sort/select.py) [insert.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/insertion-sort/insert.py) [bubble.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/bubble-sort/bubSort.py)
+### 21. Implementation of selection sort, insertion sort, and bubble sort techniques [select.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/selection-sort/select.py), [insert.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/insertion-sort/insert.py) and [bubble.py](https://github.com/rajjitlai/python-sorting-methods-array/blob/main/bubble-sort/bubSort.py)
 
 ## Extra, taught in Class
 
