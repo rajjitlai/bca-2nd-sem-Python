@@ -107,7 +107,6 @@ Here's how the program works:
 9. Finally, the program prints the value of the calculated factorial using an f-string with the message "The factorial of {user_input} is [factorial_value]".
 <hr>
 
-<<<<<<< HEAD
 ## Explanation of [fibo.py](./07-fibonacci/fibo.py)
 
 Here's how the program works:
@@ -196,14 +195,14 @@ Here's how the program works:
 9. The output displays whether `userInput` is a prime number or not based on the result of `is_prime()` function.
 <hr>
 
-=======
+
 ## Explanation of [ser1sum.py](./11-seriessum/ser1sum.py)
 
 Here's how the program works:
 
 1. First of all, we define a function called `sum_of_series()` that takes two arguments `n` and `x`.
 
-2. The function claculates the sum of a series based on the given input values of `n` and `x` using a nested loop.
+2. The function calculates the sum of a series based on the given input values of `n` and `x` using a nested loop.
 
 3. The function initializes some variables before the loop: `k` is set to 2, `sum` is initially set to 1, `sign` is set to 1 and `m` is set to 2.
 
@@ -211,7 +210,7 @@ Here's how the program works:
 
 5. Within the outer loop, there is an inner loop that runs from 1 to `m` inclusive.
 
-6. Within the inner loop, a variable calles `fact` is calculated as the factorial of `m`.
+6. Within the inner loop, a variable called `fact` is calculated as the factorial of `m`.
 
 7. After calculating `fact` in the inner loop, the `sign` is inverted using the `-sign` operation.
 
@@ -221,4 +220,4 @@ Here's how the program works:
 
 10. Finally, the function returns the total sum of the series.
 <hr>
->>>>>>> 70cf80c1bebcf50fe2493228f51e3a47300afb2b
+
