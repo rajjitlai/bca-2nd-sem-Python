@@ -4,7 +4,7 @@ We will explore some simple Python programs that cover the basic syntax and cont
 
 <hr>
 
-## Explanation of [star.py](./02-printPatterns/star.py)
+## <a id="star-py">Explanation </a> of [star.py](./02-printPatterns/star.py)
 
 Here's how the program works:
 
