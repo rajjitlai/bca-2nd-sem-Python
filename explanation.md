@@ -221,3 +221,23 @@ Here's how the program works:
 10. Finally, the function returns the total sum of the series.
 <hr>
 
+## Explanation of [ser2sum.py](./11-seriessum/ser2sum.py)
+
+Here's how the code works:
+
+1. The code defines a function called `series_sum` that takes two arguments, `n` and `x`.
+
+2. The function initializes two variables: `k` is set to 2 and `sum` is initially set to 1.
+
+3. The function uses a `for` loop to iterate over the even values between 2 and `n` inclusive.
+
+4. Within the loop, a variable called `fact` is calculated as the factorial of the current even value.
+
+5. The sum of the series is then updated by adding to it the value of the current term, which is calculated as `((x^i)/fact)`.
+
+6.The function returns the total sum of the series.
+7. The code calls the `series_sum` function with the input values of `n` and `x` (5 and 2, respectively) and assigns the result to a variable called `result`.
+
+7. The code prints the value of `result`.
+<hr>
+
