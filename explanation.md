@@ -9,12 +9,20 @@ We will explore some simple Python programs that cover the basic syntax and cont
 Here's how the program works:
 
 1. The number of rows in the pattern is set to 4 using the `rows` variable.
+
 2. A variable named `k` is initialized to `2 * rows - 2`. This value is used to keep track of the number of spaces that need to be printed before each row of stars.
+
 3. The function then uses a `for` loop to iterate through each row of the pattern.
+
 4. In each iteration of the loop, the function first prints the required number of spaces using a nested `for` loop that iterates `k` times.
+
 5. The value of `k` is decreased by 2 to account for the decreasing number of spaces required for each subsequent row.
+
 6. A second nested `for` loop is used to print the required number of stars for that row.
+
+
 7. Finally, the function prints a newline character to move to the next line.
+
 8. Once the `printPattern` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
@@ -23,10 +31,15 @@ Here's how the program works:
 Here's how the program works:
 
 1. The number of rows in the pattern is set to 5 using the `rows` variable.
+
 2. The function uses a `for` loop to iterate through each row of the pattern.
+
 3. In each iteration of the loop, the function prints the required number of spaces using a nested `for` loop that iterates `rows-i` times.
+
 4. The function then prints the required sequence of numbers for that row using two additional nested `for` loops. The first `for` loop iterates from `i` to `2*i-1` and prints the sequence of numbers in increasing order. The second `for` loop iterates from `2*i-2` to `i-1` in reverse order and prints the sequence of numbers in decreasing order.
+
 5. Finally, the function prints a newline character to move to the next line and start printing the next row.
+
 6. Once the `patternPrint` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
@@ -35,11 +48,17 @@ Here's how the program works:
 Here's how the program works:
 
 1. The program first imports the `math` module using the `import` statement.
+
 2. The program then calculates the square root of the number 25 using the `math.sqrt()` function and assigns the result to the `sqrt` variable. The program prints the result to the console.
+
 3. The program then calculates the factorial of the number 5 using the `math.factorial()` function and assigns the result to the `fact` variable. The program prints the result to the console.
+
 4. The program then converts the angle 45 degrees to radians using the `math.radians()` function and assigns the result to the `rad` variable. The program prints the result to the console.
+
 5. The program then calculates the sine of the angle `pi/4` radians using the `math.sin()` function and assigns the result to the `sin` variable. The program prints the result to the console.
+
 6. The program then calculates the cosine of the angle `pi/4` radians using the `math.cos()` function and assigns the result to the `cos` variable. The program prints the result to the console.
+
 7. The program then calculates the logarithm base 10 of the number 1000 using the `math.log10()` function and assigns the result to the `log10` variable. The program prints the result to the console.
 <hr>
 
@@ -235,9 +254,10 @@ Here's how the code works:
 
 5. The sum of the series is then updated by adding to it the value of the current term, which is calculated as `((x^i)/fact)`.
 
-6.The function returns the total sum of the series.
+6. The function returns the total sum of the series.
+
 7. The code calls the `series_sum` function with the input values of `n` and `x` (5 and 2, respectively) and assigns the result to a variable called `result`.
 
-7. The code prints the value of `result`.
+8. The code prints the value of `result`.
 <hr>
 
