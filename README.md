@@ -6,7 +6,7 @@ Python Programs for 2nd Sem BCA
 
 ### 02. (1) # Python program to print the pattern <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* <br> &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; *&nbsp; *<br> * &nbsp; * &nbsp; * &nbsp; * &nbsp; \* [star.py](./02-printPatterns/star.py) <br> <a href="./explanation.md#star-py">Explanation</a>
 
-### (2)# Python program to print the pattern <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 3 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 4 5 4 3<br>&nbsp;&nbsp;&nbsp;4 5 6 7 6 5 4<br>5 6 7 8 9 8 7 6 5 [num.py](./02-printPatterns/num.py)
+### (2)# Python program to print the pattern <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 3 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 4 5 4 3<br>&nbsp;&nbsp;&nbsp;4 5 6 7 6 5 4<br>5 6 7 8 9 8 7 6 5 [num.py](./02-printPatterns/num.py) <br> <a href="./explanation.md#num-py">Explanation</a>
 
 ### 03. # Python program to illustrate the various functions of the “Math” module [mtheg.py](./03-mathexample/mtheg.py)
 
