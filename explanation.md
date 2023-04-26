@@ -241,6 +241,7 @@ Here's how the program works:
 <hr>
 
 ## Explanation of [ser2sum.py](./11-seriessum/ser2sum.py)
+## Explanation {#my-section}
 
 Here's how the code works:
 
