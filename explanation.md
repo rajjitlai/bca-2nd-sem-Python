@@ -26,7 +26,7 @@ Here's how the program works:
 8. Once the `printPattern` function is defined, the program calls it to print the pattern in the console.
 <hr>
 
-## Explanation of [num.py](./02-printPatterns/num.py)
+## <a id="num-py">Explanation </a> of [num.py](./02-printPatterns/num.py)
 
 Here's how the program works:
 
